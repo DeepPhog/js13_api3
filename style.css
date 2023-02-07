@@ -1,0 +1,49 @@
+  .hidden {
+      display: none;
+  }
+
+  td {
+      border: 3px solid black;
+  }
+
+  td {
+      height: 25px;
+      width: 135px;
+      padding: 0px 5px;
+  }
+
+  .out {
+      text-align: center;
+      color: black;
+      font-weight: 900;
+  }
+
+  .gray {
+      color: gray;
+  }
+
+  .wand {
+      height: 60px;
+  }
+
+  img {
+      height: 200px;
+  }
+
+  h2 {
+      margin: 0px;
+      background-color: black;
+      color: white;
+  }
+
+  .cont {
+      width: 350px;
+      background-color: wheat;
+      border: 2px solid black;
+      border-radius: 5px;
+
+  }
+
+  .input {
+      padding-bottom: 50px;
+  }
